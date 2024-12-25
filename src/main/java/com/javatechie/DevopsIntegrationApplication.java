@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "welcome to Mr. DevOps Youtube Channel";
+		return "WELCOME TO ANIME WORLD";
 	}
 
 	public static void main(String[] args) {
